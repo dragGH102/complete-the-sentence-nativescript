@@ -1,0 +1,5 @@
+<Page loaded="loaded">
+    <StackLayout>
+        <Label id="success-message" horizontalAlignment="center" text="Congratulations. task complete!"></Label>
+    </StackLayout>
+</Page>

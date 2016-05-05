@@ -1,0 +1,10 @@
+<Page loaded="loaded">
+    <StackLayout>
+        <WrapLayout id="sentence-container" orientation="horizontal" horizontalAlignment="center">
+
+        </WrapLayout>
+        <WrapLayout id="wildcard-container" orientation="horizontal" horizontalAlignment="center">
+
+        </WrapLayout>
+    </StackLayout>
+</Page>
